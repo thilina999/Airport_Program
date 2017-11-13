@@ -1,0 +1,40 @@
+   Report
+First Name : Gregory	|Last Name : Hamlin	|Delay Time : 10
+First Name : Kpodo	|Last Name : Awiti	|Delay Time : 14
+First Name : Morand	|Last Name : Gwen	|Delay Time : 4
+First Name : Pedro	|Last Name : Lourencao	|Delay Time : 14
+First Name : Lattar	|Last Name : Calogero	|Delay Time : 13
+First Name : Valimaa	|Last Name : Inuzuka	|Delay Time : 10
+First Name : Suling	|Last Name : Boris	|Delay Time : 11
+First Name : Hamm	|Last Name : Pedro	|Delay Time : 11
+First Name : Awiti	|Last Name : Ryan	|Delay Time : 13
+First Name : Omar	|Last Name : Thiery	|Delay Time : 7
+First Name : Hitoshi	|Last Name : Kiran	|Delay Time : 11
+First Name : Lourencini	|Last Name : Kristo	|Delay Time : 10
+First Name : Moreau	|Last Name : Gwen	|Delay Time : 17
+First Name : Regina	|Last Name : Pirjo	|Delay Time : 14
+First Name : Hitoshi	|Last Name : Kiw	|Delay Time : 14
+First Name : Pera	|Last Name : Hanna	|Delay Time : 13
+First Name : MZoudi	|Last Name : Thomas	|Delay Time : 8
+First Name : Waltari	|Last Name : Inuzuka	|Delay Time : 7
+First Name : Lucas	|Last Name : Ubweza	|Delay Time : 13
+First Name : Nahid	|Last Name : Tiffany	|Delay Time : 8
+First Name : Kojemiachenko	|Last Name : Greta	|Delay Time : 10
+First Name : Suling	|Last Name : Boris	|Delay Time : 13
+First Name : Morel	|Last Name : Hamilton	|Delay Time : 14
+First Name : Rosa	|Last Name : Aki	|Delay Time : 11
+First Name : Lau	|Last Name : Calorio	|Delay Time : 11
+First Name : Laubmeier	|Last Name : Calorio	|Delay Time : 7
+First Name : Boris	|Last Name : Kokorin	|Delay Time : 4
+First Name : Awora	|Last Name : Ryaz	|Delay Time : 11
+First Name : Vanhanen	|Last Name : Inuzuka	|Delay Time : 14
+First Name : Grover	|Last Name : Hammond	|Delay Time : 11
+
+
+Maximum waiting time is : 17
+
+Minimum waiting time is : 4
+
+ Average waiting time is : 10.0
+
+The maximum length of the queue attained : 30
